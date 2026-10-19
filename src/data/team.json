@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Andrew Mark", "role": "CEO & Pendiri", "image": "team-img-1.jpg" },
+  { "id": 2, "name": "Jack Taylor", "role": "Desainer Senior", "image": "team-img-2.jpg" },
+  { "id": 3, "name": "Martine Joy", "role": "Manajer Proyek", "image": "team-img-3.jpg" },
+  { "id": 4, "name": "Adam Straw", "role": "Pengembang Web", "image": "team-img-4.jpg" },
+  { "id": 5, "name": "William Jack", "role": "Direktur Kreatif", "image": "team-img-5.jpg" },
+  { "id": 6, "name": "Alexa Tom", "role": "Desainer UI/UX", "image": "team-img-6.jpg" },
+  { "id": 7, "name": "Robin Lesser", "role": "Strategis Brand", "image": "team-img-7.jpg" },
+  { "id": 8, "name": "Sheikh David", "role": "Ilustrator", "image": "team-img-8.jpg" }
+]

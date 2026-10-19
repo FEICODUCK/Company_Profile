@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-syne: "Syne", ui-sans-serif, system-ui, sans-serif;
+
+  --color-light-lime: #d1ff4a;
+  --color-buttery-white: #fffcef;
+  --color-ivory: #fbf8ee;
+  --color-ink: #0c0c0c;
+
+  --breakpoint-xxl: 1400px;
+
+}
+
+@layer base {
+  :root {
+    --nav-h: 72px;
+  }
+
+  @media (min-width: 1024px) {
+    :root {
+      --nav-h: 88px;
+    }
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: var(--nav-h);
+  }
+
+  body {
+    @apply bg-ivory font-sans text-ink antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    @apply font-syne font-bold text-ink;
+  }
+}

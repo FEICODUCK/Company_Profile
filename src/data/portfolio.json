@@ -1,0 +1,6 @@
+[
+  { "id": 1, "image": "about-gallery-img-1.jpg", "title": "Eksplorasi warna dan tipografi", "category": "Branding", "client": "Kopi Senja", "year": 2025, "wide": true },
+  { "id": 2, "image": "about-gallery-img-2.jpg", "title": "Sketsa lettering untuk identitas brand", "category": "Logo", "client": "Rumah Tenun", "year": 2025, "wide": false },
+  { "id": 3, "image": "about-gallery-img-3.jpg", "title": "Logo dan materi cetak", "category": "Branding", "client": "Studio Arah", "year": 2024, "wide": false },
+  { "id": 4, "image": "about-gallery-img-4.jpg", "title": "Sistem desain antarmuka aplikasi", "category": "UI/UX", "client": "Finta App", "year": 2026, "wide": true }
+]

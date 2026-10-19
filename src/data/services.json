@@ -1,0 +1,10 @@
+[
+  { "id": 1, "icon": "th-1-service-icon-1.svg", "title": "Desain UI/UX", "description": "Berfokus pada desain antarmuka (UI) dan pengalaman pengguna (UX) untuk meningkatkan kemudahan penggunaan dan aksesibilitas produk digital dan aplikasi." },
+  { "id": 2, "icon": "th-1-service-icon-2.svg", "title": "Desain Grafis", "description": "Membuat elemen visual seperti logo, materi branding, tata letak halaman, brosur, dan materi pemasaran lainnya." },
+  { "id": 3, "icon": "th-1-service-icon-3.svg", "title": "Desain Web", "description": "Merancang dan mengembangkan situs web yang menarik secara visual, mudah digunakan, dan berfungsi dengan baik." },
+  { "id": 4, "icon": "th-1-service-icon-4.svg", "title": "Motion Graphics", "description": "Membuat grafis animasi dan video untuk berbagai keperluan, termasuk pemasaran dan hiburan, untuk membantu menjual produk atau layanan." },
+  { "id": 5, "icon": "th-1-service-icon-5.svg", "title": "Desain Kemasan", "description": "Membuat solusi kemasan yang tidak hanya melindungi produk, tetapi juga menarik perhatian pelanggan di rak toko." },
+  { "id": 6, "icon": "th-1-service-icon-6.svg", "title": "Logo dan Branding", "description": "Membuat atau memperbarui logo perusahaan dan mengembangkan identitas visual yang kohesif, kartu nama, kop surat, dan panduan gaya." },
+  { "id": 7, "icon": "th-1-service-icon-6.svg", "title": "Strategi Brand", "description": "Merumuskan posisi, nilai, dan gaya komunikasi brand sebagai fondasi bagi seluruh keputusan desain." },
+  { "id": 8, "icon": "th-1-service-icon-7.svg", "title": "Ilustrasi", "description": "Membuat ilustrasi khusus untuk konten editorial, buku, situs web, materi pemasaran, majalah, dan lainnya." }
+]

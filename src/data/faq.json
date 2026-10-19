@@ -1,0 +1,8 @@
+[
+  { "id": 1, "question": "Layanan apa saja yang ditawarkan studio ini?", "answer": "Kami menangani identitas visual dan logo, desain UI/UX, desain web, kemasan, motion graphics, ilustrasi, serta materi pemasaran cetak dan digital." },
+  { "id": 2, "question": "Seperti apa proses desain Anda?", "answer": "Dimulai dari riset dan brief, dilanjutkan eksplorasi konsep, pengembangan desain beserta revisi, lalu serah terima file final." },
+  { "id": 3, "question": "Berapa biaya untuk pekerjaan desain?", "answer": "Biaya bergantung pada lingkup, jumlah aset, dan tingkat kerumitan proyek. Kami memberikan penawaran tertulis setelah sesi diskusi awal." },
+  { "id": 4, "question": "Berapa lama satu proyek dikerjakan?", "answer": "Desain logo dan identitas biasanya memakan waktu 3 sampai 6 minggu, sedangkan desain web atau aplikasi 6 sampai 12 minggu, tergantung kompleksitas." },
+  { "id": 5, "question": "Berapa kali revisi yang bisa saya minta?", "answer": "Setiap paket sudah mencakup putaran revisi yang disepakati di awal. Revisi tambahan tetap bisa dilakukan dengan biaya terpisah." },
+  { "id": 6, "question": "Apa yang saya terima di akhir proyek?", "answer": "Anda menerima file sumber dan file siap pakai dalam berbagai format, serta panduan gaya agar brand tetap konsisten di setiap media." }
+]
